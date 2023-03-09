@@ -1,0 +1,7 @@
+{
+  "name": "Alarm_Planner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
